@@ -1,3 +1,4 @@
+# 21.03.2015
 # http://rforfinance.ru/pairs-trade/
 
 start.date <- "2009-01-01"
